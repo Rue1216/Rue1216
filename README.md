@@ -9,17 +9,14 @@
   </p>
 
   <section align="left">
-    <!-- <h2>About & Contact</h2>
-    <a href="http://rue1216.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-    </a> -->
     <h2>Contact</h2>
-    <p>Late to reply might happen sometimes, but I will get back to you as soon as I can!</p>
-    <a href="mailto:ltsuyun1999@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/tsu-yun-lin/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+      <a href="mailto:ltsuyun1999@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+      <a href="https://www.linkedin.com/in/tsu-yun-lin/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+      </a>
+      <p>Late reply might happen sometimes, but I will get back to you as soon as I can!</p>
   </section>
 
   <h2 align="left">Skill Stack</h2>
@@ -27,19 +24,19 @@
   <section align="left">
     <ul style="list-style-type: none; padding: 0; display: flex; flex-direction: column; gap: 12px;">
     <li style="align-items: center; display: flex; gap: 8px;">
-      Experienced with: <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      Experienced with: <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>  
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       </li>
     <li style="align-items: center; display: flex; gap: 8px;">
-      In love with these UI tools: <img src="https://img.shields.io/badge/-Ant%20Design-333333?style=for-the-badge&logo=ant-design&logoColor=0170FE"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+      In love with these UI tools: <img src="https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
       </li>
       <li style="align-items: center; display: flex; gap: 8px;">
-      Other tools:<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
+      Other tools: <img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"/>
       </li>
     </ul>
   </section>
